@@ -20,7 +20,7 @@ This approach removes environment setup complexities, reduces errors caused by i
 - Coordinated between documentation and technical teams to ensure consistency.
 - Collaboratively built web-to-IDE bridge with Nginx proxy, injecting JavaScript to configure VS Code Web instances via URL parameters.
 
-**Technologies:** React, Redux, Node.js, TypeScript, PostgreSQL, WebDAV, Docker  
+**Technologies:** React, Redux, Node.js, TypeScript, PostgreSQL, WebDAV, Docker, Nginx
 
 ## Project Poster
 A one-page summary of the project is available as following:
