@@ -18,6 +18,7 @@ This approach removes environment setup complexities, reduces errors caused by i
 - Contributed to backend API endpoints and database schema extensions.
 - Contributed to a VS Code Web extension that uses WebDAV to perform backend file operations.
 - Coordinated between documentation and technical teams to ensure consistency.
+- Collaboratively built web-to-IDE bridge with Nginx proxy, injecting JavaScript to configure VS Code Web instances via URL parameters.
 
 **Technologies:** React, Redux, Node.js, TypeScript, PostgreSQL, WebDAV, Docker  
 
