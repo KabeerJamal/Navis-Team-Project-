@@ -15,7 +15,8 @@ This approach removes environment setup complexities, reduces errors caused by i
 - Worked in a 10-member team to develop the browser-based IDE.  
 - Learned **React** and contributed to frontend skeleton code.  
 - Implemented **Redux logic** for project management (actions, dispatch, slices).  
-- Contributed to backend API endpoints and database schema extensions.  
+- Contributed to backend API endpoints and database schema extensions.
+- Contributed to a VS Code Web extension that uses WebDAV to perform backend file operations.
 - Coordinated between documentation and technical teams to ensure consistency.
 
 **Technologies:** React, Redux, Node.js, TypeScript, PostgreSQL, WebDAV, Docker  
