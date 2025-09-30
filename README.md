@@ -22,7 +22,6 @@ This approach removes environment setup complexities, reduces errors caused by i
 **Technologies:** React, Redux, Node.js, TypeScript, PostgreSQL, WebDAV, Docker  
 
 ## Project Poster
-A one-page summary of the project is available here:  
-[Navis_Project_Poster.pdf](./Navis_Project_Poster.pdf)
+A one-page summary of the project is available in the repo.  
 
 *Note: Source code is proprietary and not included.*
