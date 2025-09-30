@@ -24,7 +24,8 @@ This approach removes environment setup complexities, reduces errors caused by i
 ## Project Poster
 A one-page summary of the project is available as following:
 [Navis_project_summary.pdf](./Navis_Poster.pdf)
-*Note: GitHub will show "Unable to render code block" - simply click Download to view the PDF.
+
+*Note: GitHub will show "Unable to render code block" - simply click Download icon to view the PDF.
 
 
 *Note: Source code is proprietary and not included.*
